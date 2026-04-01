@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "Complete implementation plan for deploying NetBird VPN on Azure VM (Ubuntu 22.04) at netbirdtest.fincart.com. Based on thorough research of the latest NetBird documentation, the plan uses the modern combined-container architecture (v0.65.0+) with embedded IdP, official getting-started.sh script with Nginx option, and post-deployment Azure AD integration via Dashboard UI. Covers 7 phases: prerequisites/cleanup, script execution, Nginx config, service startup, admin setup, Azure AD integration, and client onboarding. Includes 3 open questions about port conflicts, SSL paths, and UDP port availability.",
+  "updatedAt":  "2026-04-01T11:24:12.289171646Z",
+  "requestFeedback":  true
+}

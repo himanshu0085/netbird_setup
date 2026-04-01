@@ -1,0 +1,8 @@
+# NetBird Dashboard Verification
+
+## Plan
+- [ ] Navigate to `https://netbirdtest.fincart.com`
+- [ ] Capture screenshot of the first page that loads
+- [ ] Check if the URL redirects to `/setup` or a login page
+- [ ] Report the page title, forms, and any error messages
+- [ ] Capture additional screenshots if needed

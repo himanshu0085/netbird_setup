@@ -1,0 +1,36 @@
+# NetBird Deployment Tasks
+
+## Phase 1: Prerequisites & Cleanup
+- [/] Check port 8080 usage and free if needed
+- [ ] Install jq if not present
+- [ ] Stop/remove any existing NetBird containers
+- [ ] Verify SSL certificates exist
+- [ ] Check port 3478 availability
+
+## Phase 2: Run Official Getting-Started Script
+- [ ] Set NETBIRD_DOMAIN and run getting-started.sh
+- [ ] Select Nginx option [2]
+- [ ] Verify generated files
+
+## Phase 3: Configure Nginx Reverse Proxy
+- [ ] Create /etc/nginx/sites-available/netbird config
+- [ ] Update SSL cert paths
+- [ ] Enable site and test config
+- [ ] Reload Nginx
+
+## Phase 4: Start Services & Validate
+- [ ] docker compose up -d
+- [ ] Verify all containers running
+- [ ] Test dashboard URL
+- [ ] Test API endpoint
+
+## Phase 5: Initial Admin Setup
+- [ ] Access /setup page
+- [ ] Create admin account
+
+## Phase 6: Azure AD Integration (post-deployment)
+- [ ] Add Azure AD via Dashboard UI
+
+## Phase 7: Client Onboarding
+- [ ] Generate setup key
+- [ ] Connect client

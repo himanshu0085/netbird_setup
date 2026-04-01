@@ -1,0 +1,5 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_WALKTHROUGH",
+  "summary":  "Complete walkthrough of NetBird VPN self-hosted deployment on Azure VM. Covers all completed infrastructure work (cleanup, script execution, config generation, Nginx setup, container startup, endpoint validation) with verified screenshots. Includes detailed remaining manual steps for admin setup, Azure AD integration, setup key generation, and client onboarding. Also includes debugging reference section.",
+  "updatedAt":  "2026-04-01T14:44:04.820423375Z"
+}

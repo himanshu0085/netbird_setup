@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_OTHER",
+  "summary":  "Complete Proof of Concept document for NetBird self-hosted VPN deployment on Azure VM. Covers 11 steps from cleanup to client connection, includes all configuration files (docker-compose.yml, config.yaml, dashboard.env, nginx config), embedded screenshots of the setup page, login page with Azure AD SSO, and Microsoft sign-in page. Documents the gRPC port 33073 issue that was debugged and resolved. Includes architecture diagram, NSG requirements, file locations, operational commands, and recommendations.",
+  "updatedAt":  "2026-04-01T16:04:27.569165887Z",
+  "requestFeedback":  true
+}

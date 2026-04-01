@@ -1,0 +1,19 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Instance Setup - NetBird Dashboard
+Welcome to NetBird
+Create the first admin account to get started
+[0] (500,267)<label class='text-sm font-medium tracking-wider leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70 mb-1.5 dark:text-nb-gray-200 flex items-center gap-2 select-none'>Name />
+[1] (500,302)<input class='dark:bg-nb-gray-900 dark:placeholder:text-neutral-400/70 placeholder:text-neutral-500 border-neutral-200 dark:border-nb-gray-700 ring-offset-neutral-200/20 dark:ring-offset-neutral-950/50 dark:focus-visible:ring-neutral-500/20 focus-visible:ring-neutral-300/10 flex h-[42px] w-full rounded-md bg-white px-3 py-2 text-sm file:bg-transparent file:text-sm file:font-medium focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-40 file:border-0 focus-visible:ring-2 focus-visible:ring-offset-2 border' id='name' placeholder='Your name' />
+[2] (500,352)<label class='text-sm font-medium tracking-wider leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70 mb-1.5 dark:text-nb-gray-200 flex items-center gap-2 select-none'>Email />
+[3] (500,388)<input class='dark:bg-nb-gray-900 dark:placeholder:text-neutral-400/70 placeholder:text-neutral-500 border-neutral-200 dark:border-nb-gray-700 ring-offset-neutral-200/20 dark:ring-offset-neutral-950/50 dark:focus-visible:ring-neutral-500/20 focus-visible:ring-neutral-300/10 flex h-[42px] w-full rounded-md bg-white px-3 py-2 text-sm file:bg-transparent file:text-sm file:font-medium focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-40 file:border-0 focus-visible:ring-2 focus-visible:ring-offset-2 border' id='email' placeholder='admin@example.com' />
+[4] (500,438)<label class='text-sm font-medium tracking-wider leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70 mb-1.5 dark:text-nb-gray-200 flex items-center gap-2 select-none'>Password />
+[5] (500,473)<input class='dark:bg-nb-gray-900 dark:placeholder:text-neutral-400/70 placeholder:text-neutral-500 border-neutral-200 dark:border-nb-gray-700 ring-offset-neutral-200/20 dark:ring-offset-neutral-950/50 dark:focus-visible:ring-neutral-500/20 focus-visible:ring-neutral-300/10 flex h-[42px] w-full rounded-md bg-white px-3 py-2 text-sm file:bg-transparent file:text-sm file:font-medium focus-visible:outline-none disabled:cursor-not-allowed disabled:opacity-40 file:border-0 focus-visible:ring-2 focus-visible:ring-offset-2 !pr-16 border' id='password' placeholder='Enter a strong password' />
+[6] (579,473)<button aria-label='Toggle password visibility' class='hover:text-white transition-all' />
+Must be at least 8 characters
+[7] (500,575)<button class='relative text-sm focus:z-10 focus:ring-2 font-medium  focus:outline-none whitespace-nowrap shadow-sm inline-flex gap-2 items-center justify-center transition-colors focus:ring-offset-1 disabled:opacity-40 disabled:cursor-not-allowed disabled:dark:text-nb-gray-300 dark:ring-offset-neutral-950/50 dark:focus:ring-netbird-600/50 dark:ring-offset-neutral-950/50 enabled:dark:bg-netbird disabled:dark:bg-nb-gray-910 dark:text-gray-100 enabled:dark:hover:text-white enabled:dark:hover:bg-netbird-500/80 enabled:bg-netbird enabled:text-white enabled:focus:ring-netbird-400/50 enabled:hover:bg-netbird-500 text-md py-2.5 px-4 rounded-md border border-transparent w-full'>Create Admin Account />
+This is a one-time setup for your NetBird instance.
+
+</current_dom>
