@@ -445,8 +445,8 @@ curl -sk -o /dev/null -w '%{http_code}' https://netbirdtest.fincart.com/oauth2/.
 ### Step 8: Initial Admin Setup
 
 Navigated to `https://netbirdtest.fincart.com` in browser → redirected to `/setup`:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2947cd9-38c3-450f-8ba5-1c132d705dc8" />
 
-![NetBird Welcome - Create Admin Account](/home/himanshuparashar/.gemini/antigravity/brain/8f941359-c3ce-47d9-b2cf-7a9cfc04d309/netbird_setup_page.png)
 
 Created admin account with:
 - Name, Email, and strong password
@@ -466,7 +466,8 @@ After admin login, Azure AD was configured via **Dashboard → Settings → Iden
 
 #### Result — Login Page With Both Options:
 
-![NetBird Login - Email + Azure AD SSO](/home/himanshuparashar/.gemini/antigravity/brain/8f941359-c3ce-47d9-b2cf-7a9cfc04d309/netbird_peers_page_login_1775059296751.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/270ac0f6-fa37-469b-b0b2-11bf30fa8fba" />
+
 
 The login page now shows:
 - **"Continue with Email"** — Local embedded IdP
@@ -474,7 +475,8 @@ The login page now shows:
 
 #### Azure AD Sign-In Page:
 
-![Microsoft Sign-In Page](/home/himanshuparashar/.gemini/antigravity/brain/8f941359-c3ce-47d9-b2cf-7a9cfc04d309/netbird_initial_page_1775059267102.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec86311e-2dd8-45e4-b939-7227cb03b62b" />
+
 
 Clicking "Continue with Fincart Azure SSO" redirects to the standard Microsoft Sign-in page.
 
